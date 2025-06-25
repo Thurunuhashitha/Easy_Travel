@@ -1,0 +1,106 @@
+{
+   "checksum": "880cdccd2a6f2cf20370f163b6a12742",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13333719270977528",
+            "date_last_used": "13392395874756125",
+            "guid": "0c58e6a0-619e-4c9a-b0eb-75ed6db3900e",
+            "id": "9",
+            "name": "Gmail",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService",
+            "visit_count": 1
+         }, {
+            "date_added": "13333719270978850",
+            "date_last_used": "13394901193252092",
+            "guid": "dba5707d-1b5c-4ff0-bd2c-c6b3a6c8e0a9",
+            "id": "10",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://youtube.com/",
+            "visit_count": 1
+         }, {
+            "date_added": "13333719270979670",
+            "date_last_used": "0",
+            "guid": "3cac2c72-5853-4e4d-9b26-62f168e0ed9f",
+            "id": "11",
+            "name": "Maps",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://maps.google.com/",
+            "visit_count": 0
+         }, {
+            "date_added": "13395306866689542",
+            "date_last_used": "0",
+            "guid": "e66d1fc8-d921-47b8-8180-01361fb7ed76",
+            "id": "8",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/",
+            "visit_count": 0
+         }, {
+            "date_added": "13395306866689452",
+            "date_last_used": "0",
+            "guid": "3b22d998-82f2-4cfd-9c3e-f7062a613e13",
+            "id": "7",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/",
+            "visit_count": 0
+         }, {
+            "date_added": "13395306866689142",
+            "date_last_used": "0",
+            "guid": "ea74cddc-5f93-4504-bf32-5e4b42c373cb",
+            "id": "6",
+            "name": "McAfee LiveSafe",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://home.mcafee.com/root/campaign.aspx?cid=247829",
+            "visit_count": 0
+         } ],
+         "date_added": "13395306866430718",
+         "date_last_used": "0",
+         "date_modified": "13395306866689542",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13395306866430725",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13395306866430728",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCEUDx6WXAQAAKg4QABgBIAYoBjAAOABAABIAKhgzbStuUC8yNy9IVnhHS0R6K21PYWhBPT1IA6AGDBKtAQgLEqgBChxPeFZMNklpM1V2MHJmSzJNeGFadDFlSmt0RWs9EiQzY2FjMmM3Mi01ODUzLTRlNGQtOWIyNi02MmYxNjhlMGVkOWYYACACKAIwgruurvoyONb6hcWYMUCFpK6u+jJKHCtvdm1jRkR6aGNWU0d0VjMrSDRhT3A4UzU0az1aHyIdsUwyL0RZU25VSGNSRU9FM1FvZVZZSjNrckZXOD1lPWyFEcI+AmAFEo4BCAESiQEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJDkxMmJhOTUxLWJjYmQtNWU2Ny1hNzE2LTRlMDk4YzQxZjhhNBgAIAAoADDY4oH0lDE4/+aB9JQxQP/mgfSUMUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAADCPgJgABKsAQgKEqcBChxRSFdtak1RYndWd2VySWpkT3hTSTRRQU1UblU9EiRkYmE1NzA3ZC0xYjVjLTRmZjAtYmQyYy1jNmIzYTZjOGUwYTkYACACKAIwgbuurvoyOJn6hcWYMUCDpK6u+jJKHEhqZEN1OG1JY1hNYlM4SjVMQWU3QzFva1Vndz1aHiIcY2oyRTRVaDRBSnhsNTZmbFRqY25XYXpMaHZ3PWX9nIxKwj4CYAUSrAEICRKnAQocVU5WOEFWZ25kNlJLMWVZZmpCQTM1TStManJzPRIkMGM1OGU2YTAtNjE5ZS00YzlhLWIwZWItNzVlZDZkYjM5MDBlGAAgAigCMIC7rq76Mjiw+oXFmDFAg6SurvoyShxBRWhzNlUzYW9ZbTRNelc1OFJwd0d4OFl6M0k9Wh4iHEhzS3hHK3ZoOXZFZGl4OXMrUkZ3Z3BSZTZNYz1lmz2FtsI+AmAFEo4BCAISiQEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SJGE3MDc3Zjg5LTEyMzEtNTMxYS04MzBkLWI4MDEwOGQzY2JlMBgAIAAoADDZ4oH0lDE4n+eB9JQxQJ/ngfSUMUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAADCPgJgABKOAQgDEokBChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ0OGYxZDE0Ny03YmIzLTUzMDktYjRjMi1jZjBkZmMzOGRmNjUYACAAKAAw3uKB9JQxOOTngfSUMUDk54H0lDFKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAwj4CYAAwADgA",
+   "version": 1
+}
